@@ -24,6 +24,8 @@
 
 </div>
 
+By Braulio Nayap Maldonado Casilla
+
 **Warning:** To execute this, all devices must use the same version of Fedora (39, 40, or 41).
 
 This document details the necessary steps to configure OpenMPI and SSH on two computers (one Master and one Slave) and run a simple MPI program (Hello World).
